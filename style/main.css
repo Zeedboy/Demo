@@ -1,0 +1,22 @@
+
+
+h1 {
+    color: blue; /* H1 elementini ko'k rangda ko'rsatadi */
+}
+
+#header {
+    font-size: 24px; /* Header uchun shrift o'lchami */
+}
+
+.intro {
+    font-weight: bold; /* Intro klassidagi matnni qalin qiladi */
+}
+
+.menu li {
+    list-style-type: none; /* Menu elementlarining ro'yxatini olib tashlaydi */
+}
+
+a:hover {
+    color: red; /* Havola ustiga kelsa rangni qizilga o'zgartiradi */
+}
+
