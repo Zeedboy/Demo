@@ -1,7 +1,7 @@
 
 
 h1 {
-    color: blue; /* H1 elementini ko'k rangda ko'rsatadi */
+    color: darkorange; /* H1 elementini ko'k rangda ko'rsatadi */
 }
 
 #header {
@@ -20,3 +20,6 @@ a:hover {
     color: red; /* Havola ustiga kelsa rangni qizilga o'zgartiradi */
 }
 
+body{
+    background-color:red;
+}
